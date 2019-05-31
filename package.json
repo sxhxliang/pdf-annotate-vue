@@ -1,0 +1,31 @@
+{
+  "name": "pdf-annotate-vue",
+  "version": "1.0.1",
+  "description": "Annotation layer for pdf.js in vue",
+  "main": "./src/pdfAnnotate.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "annotation",
+    "pdf.js",
+    "pdfjs",
+    "vue"
+  ],
+  "author": "Liang Shihua",
+  "license": "MIT",
+  "dependencies": {
+    "create-stylesheet": "^0.3.0",
+    "pdfjs-dist": "^2.0.943"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
