@@ -1,4 +1,8 @@
- 
+## pdf-annotate-vue
+
+>  Annotation layer for pdf.js in vue
+
+
 ## Install
 
 ```
@@ -9,7 +13,7 @@ yarn add pdf-annotate-vue -S
 
 ## Example
 
-```
+```vue
 <template>
   <div id="app">
      pdf path: {{pdf}}
@@ -37,5 +41,20 @@ export default {
   }
 }
 </script>
+
+```
+
+
+## run example
+
+```bash
+# Clone Project
+git clone https://github.com/AaronLeong/pdf-annotate-vue.git
+
+cd pdf-annotate-vue
+# Project setup --> install node_modules
+yarn install
+# Compiles and hot-reloads for development
+yarn run serve
 
 ```
