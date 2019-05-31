@@ -1,9 +1,13 @@
+ 
+## Install
 
 ```
 npm install pdf-annotate-vue -S
 or
 yarn add pdf-annotate-vue -S
 ```
+
+## Example
 
 ```
 <template>
@@ -18,8 +22,6 @@ yarn add pdf-annotate-vue -S
 import pdfAnnotate from 'pdf-annotate-vue'
 import "pdf-annotate-vue/src/css/toolbar.css";
 import "pdf-annotate-vue/src/css/pdf_viewer.css";
-// import 'element-ui/lib/theme-chalk/index.css';
-
 
 export default {
   name: 'home',

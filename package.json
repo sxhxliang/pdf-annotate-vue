@@ -1,8 +1,14 @@
 {
   "name": "pdf-annotate-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Annotation layer for pdf.js in vue",
   "main": "./src/pdfAnnotate.vue",
+  "homepage": "https://github.com/AaronLeong/pdf-annotate-vue",
+  "bugs": {
+    "url": "https://github.com/AaronLeong/pdf-annotate-vue/issues",
+    "email": "mc2liang@gmail.com"
+  },
+  "repository": "github:AaronLeong/pdf-annotate-vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
