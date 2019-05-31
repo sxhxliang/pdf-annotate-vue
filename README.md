@@ -51,7 +51,7 @@ export default {
 # Clone Project
 git clone https://github.com/AaronLeong/pdf-annotate-vue.git
 
-cd pdf-annotate-vue
+cd pdf-annotate-vue/example
 # Project setup --> install node_modules
 yarn install
 # Compiles and hot-reloads for development
